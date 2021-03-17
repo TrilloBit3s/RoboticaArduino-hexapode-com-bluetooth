@@ -1,11 +1,12 @@
 # RoboticaArduino-hexapode-com-bluetooth
 
 
-https://www.youtube.com/watch?v=cKWWw1eLF2A&ab_channel=MikeUnityGame
+https://syr.us/fpe
 
-https://www.youtube.com/watch?v=OLILkR2Z630&ab_channel=MikeUnityGame
+https://syr.us/0Tp
 
-https://www.youtube.com/watch?v=5I7kMTiPyxA&ab_channel=MikeUnityGame
+https://syr.us/QCC
+
 
 ![18664399_1375604452521960_4028656239663342863_n](https://user-images.githubusercontent.com/79748858/111403944-a7a46d80-86ac-11eb-9378-d5ae1dc1838c.jpg)
 
