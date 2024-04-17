@@ -1,13 +1,6 @@
 # RoboticaArduino-hexapode-com-bluetooth
 
 
-https://syr.us/fpe
-
-https://syr.us/0Tp
-
-https://syr.us/QCC
-
-
 ![18664399_1375604452521960_4028656239663342863_n](https://user-images.githubusercontent.com/79748858/111403944-a7a46d80-86ac-11eb-9378-d5ae1dc1838c.jpg)
 
 ![15232283_1190461597702914_1937445469216116546_n](https://user-images.githubusercontent.com/79748858/111404077-eafedc00-86ac-11eb-8101-12d77c9c2eec.jpg)
